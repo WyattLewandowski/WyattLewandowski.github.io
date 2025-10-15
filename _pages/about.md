@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I like cheese
-Fuck yo
-
+This is a test
