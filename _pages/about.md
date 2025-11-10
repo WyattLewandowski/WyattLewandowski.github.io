@@ -7,57 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-OBJECTIVE
+Objective
 
- make money by being good at coding
- 
-EDUCATION
+Motivated and detail-oriented student seeking opportunities to apply strong programming skills and problem-solving abilities to real-world projects. Passionate about software development, cybersecurity, and game design.
 
- Havre de Grace High School:
-   Ap CSA, Java fundamentals, Java Foundations.
-   Harford Community College: Cybersecurity 101.
+Education
 
-[City]
+Havre de Grace High School — Havre de Grace, MD
 
- Havre de Grace
- 
-[State]
+AP Computer Science A (Java)
 
- MD
+AP Computer Science Principles
+
+Java Fundamentals
+
+Java Foundations
+
+Harford Community College
+
+Cybersecurity 101
+
+Key Skills
+
+Programming Languages: Java, SQL, JavaScript
+
+Database Management: Oracle Database Certified
+
+Soft Skills: Communication, Leadership, Organization, Time Management, Project Management
+
+Experience
+
+Oracle Database Certification — Completed coursework and certification in Oracle database management and SQL fundamentals.
+AP Computer Science Courses — Gained experience in Java programming, object-oriented design, and software problem-solving through advanced placement coursework.
+
+Keyes Creamery — Employee
+
+Provided excellent customer service in a fast-paced local business environment.
+
+Demonstrated reliability, teamwork, and time management skills.
+
+Volunteer Experience
+
+Assisted with food pantry operations, organizing donations and serving community members.
+
+Provided childcare support during community events and programs.
+
+Interests
+
+Game Programming • Game Design • Volleyball • Trombone • Bass Guitar
+
+References
+
+Available upon request.
 
 
-KEY SKILLS
 
- PROGRAMMING (JAVA, SQL, JAVASCRIPT)
- PROJECT MANAGEMENT
- TIME MANAGEMENT
- COMMUNICATION
- ORGANIZATION
- LEADERSHIP
 
- 
- EXPERIENCE
-	
--Oracle database certified
--java fundamentals class
--java foundations class
--ap csa
--ap csp
 
-		
-OUTSIDE EXPERIENCE		
 
--Employee at Keyes creamery (local business).
--volunteer work (food pantry, childcare).		
-INTERESTS		
--game programming
--game design
--volleyball
--trombone
--bass guitar		
 
-REFERENCES
-	
-[Available upon request.]
-	
-
+https://github.com/WyattLewandowski/Budget-Tracker
+Basic java budget tracking app which tracks a savings number and a budget number. (app doesn't save when closed) This was built for a java class in High school.
