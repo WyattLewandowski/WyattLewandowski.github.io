@@ -40,16 +40,16 @@ Experience
 projects:
 
 fastrack recreation
-(https://wyattlewandowski.github.io/FastTrack/)
+[fastTrack](https://wyattlewandowski.github.io/FastTrack/)
 
 start page for government
-(https://wyattlewandowski.github.io/startPageUi/)
+[start page](https://wyattlewandowski.github.io/startPageUi/)
 
 budget tracker example
-(https://github.com/WyattLewandowski/Budget-Tracker)
+[budgetTracker](https://github.com/WyattLewandowski/Budget-Tracker)
 
 cell text app
-(https://github.com/WyattLewandowski/MyEccel)
+[myEccel](https://github.com/WyattLewandowski/MyEccel)
 
 Oracle Database Certification — Completed coursework and certification in Oracle database management and SQL fundamentals.
 AP Computer Science Courses — Gained experience in Java programming, object-oriented design, and software problem-solving through advanced placement coursework.
@@ -74,11 +74,3 @@ References
 
 Available upon request.
 
-
-
-
-
-
-
-[budget-tracker](https://github.com/WyattLewandowski/Budget-Tracker)
-Basic java budget tracking app which tracks a savings number and a budget number. (app doesn't save when closed) This was built for a java class in High school.
