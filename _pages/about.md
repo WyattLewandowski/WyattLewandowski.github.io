@@ -37,6 +37,20 @@ Soft Skills: Communication, Leadership, Organization, Time Management, Project M
 
 Experience
 
+projects:
+
+fastrack recreation
+https://wyattlewandowski.github.io/FastTrack/
+
+start page for government
+https://wyattlewandowski.github.io/startPageUi/
+
+budget tracker example
+https://github.com/WyattLewandowski/Budget-Tracker
+
+cell text app
+https://github.com/WyattLewandowski/MyEccel
+
 Oracle Database Certification — Completed coursework and certification in Oracle database management and SQL fundamentals.
 AP Computer Science Courses — Gained experience in Java programming, object-oriented design, and software problem-solving through advanced placement coursework.
 
